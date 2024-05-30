@@ -27,7 +27,6 @@ const SpinSelection = ({ spinValues, value, onChange }: SpinSelectionProps) => {
             }}
           />
           <span
-            // className={styles.spinBtn}
           >
             {item}
           </span>
