@@ -1,5 +1,5 @@
 # Live Demo
-[Learning Chemistry](https://zinaidamarkosyan.github.io/learningChemistry/#/)
+[Practice Chemistry](https://zinaidamarkosyan.github.io/practiceChemistry/#/)
 
 # Getting Started with Create React App
 
