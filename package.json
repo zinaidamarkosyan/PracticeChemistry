@@ -1,6 +1,6 @@
 {
-  "name": "myChemistry 112",
-  "version": "0.1.222",
+  "name": "myChemistry222",
+  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@dnd-kit/core": "^6.1.0",
